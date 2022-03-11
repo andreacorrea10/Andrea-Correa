@@ -18,3 +18,5 @@ Disposição para aprender novas tecnologias e metodologias.
 <a href="https://www.json.org/json-en.html"><img height= "35" src= "https://raw.githubusercontent.com/andreacorrea10/Andrea-Correa/1d2f62801a2748231dccfa6fddf4d951139c2ce5/images/json.svg"></a>
 <a href="https://git-scm.com/"><img height= "35" src= "https://raw.githubusercontent.com/andreacorrea10/Andrea-Correa/1d2f62801a2748231dccfa6fddf4d951139c2ce5/images/git.svg"></a>
 <a href="https://code.visualstudio.com/"><img height= "35" src= "https://raw.githubusercontent.com/andreacorrea10/Andrea-Correa/1d2f62801a2748231dccfa6fddf4d951139c2ce5/images/vs.svg"></a>
+<a href="https://wordpress.org/"><img height= "35" src= "https://raw.githubusercontent.com/andreacorrea10/andreacorrea10/main/images/wordpress.jpg"></a>
+<a href="https://woocommerce.com/"><img height= "35" src= "https://raw.githubusercontent.com/andreacorrea10/andreacorrea10/main/images/woo.png"></a>
