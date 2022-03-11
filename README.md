@@ -20,8 +20,12 @@ Disposição para aprender novas tecnologias e metodologias.
 <a href="https://code.visualstudio.com/"><img height= "35" src= "https://raw.githubusercontent.com/andreacorrea10/Andrea-Correa/1d2f62801a2748231dccfa6fddf4d951139c2ce5/images/vs.svg"></a>
 <a href="https://wordpress.org/"><img height= "35" src= "https://raw.githubusercontent.com/andreacorrea10/andreacorrea10/main/images/wpress.png"></a>
 <a href="https://woocommerce.com/"><img height= "35" src= "https://raw.githubusercontent.com/andreacorrea10/andreacorrea10/main/images/woo.png"></a>
+<a href="https://www.mongodb.com/"><img height= "35" src= "https://raw.githubusercontent.com/andreacorrea10/andreacorrea10/1737434cd06f4d29bc7e8e514487d3e28e34cc13/images/mongodb.svg"></a>
+<a href="https://www.mysql.com/"><img height= "35" src= "https://raw.githubusercontent.com/andreacorrea10/andreacorrea10/1737434cd06f4d29bc7e8e514487d3e28e34cc13/images/mysql2.svg"></a>
 
 
-<h3>Linguagens que possuo menos domínio ou estou aprendendo.
+
+
+<h3>Linguagens que possuo menos domínio ou estou aprendendo.</h3>
  
 
