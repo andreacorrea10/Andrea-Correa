@@ -1,4 +1,14 @@
-Andrea Corrêa
+Olá, eu sou Andrea Corrêa.
+
+Possuo experiência em programação, desenvolvimento e 
+manutenção de sistemas web utilizando os variados frameworks do mercado, 
+Seguindo as boas práticas de desenvolvimento, envolvendo o controle de demandas, 
+assegurando o cumprimento dos prazos e qualidade requerida pela empresa. 
+Trabalhando em equipes dinamicamente, atuando e debatendo as rotinas das tarefas e 
+alinhando-os aos objetivos da empresa e seu cliente. 
+Disposição para aprender novas tecnologias e metodologias.
+
+Linguagens que possuo mais domínio.
 
 <a href="https://developer.mozilla.org/docs/Web/HTML"><img height= "35" src= "https://raw.githubusercontent.com/andreacorrea10/Andrea-Correa/1d2f62801a2748231dccfa6fddf4d951139c2ce5/images/html.svg"></a>
 <a href="https://developer.mozilla.org/docs/Web/CSS"><img height= "35" src= "https://raw.githubusercontent.com/andreacorrea10/Andrea-Correa/1d2f62801a2748231dccfa6fddf4d951139c2ce5/images/css.svg"></a>
